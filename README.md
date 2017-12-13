@@ -2,7 +2,12 @@
 
 **SOLUTION WAS RANKED 4TH IN THE PRIVATE LEADER BOARD**
 
+**SCORE : 0.90719**
+
+**METRIC : ACCURACY**
+
 **LEADER BOARD** : https://www.hackerearth.com/challenge/competitive/predict-the-happiness/leaderboard/
+
 **DATASET** : https://he-s3.s3.amazonaws.com/media/hackathon/predict-the-happiness/predict-the-happiness/f2c2f440-8-dataset_he.zip
 
 **TOOLS** :
